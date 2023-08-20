@@ -1,6 +1,9 @@
 _output
 kubevirt-velero-plugin
 
+cscope.files
+cscope.out
+
 .go
 .idea
 
